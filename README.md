@@ -5,19 +5,13 @@ This project uses data extraction from URL, data pre-processing, and feature ext
 ## Features
 
 * Extracts data from URL.
+* Crawl multiple URLs using Python Scarpy
 * Performs data pre-processing.
 * Extracts features from data.
+* Apply machine learning algorithms and build neaural network and also applied deep learning algorithms
 * Detects cyber threats and malicious conversations.
 * Crawl multiple URLs using Python Scary.
 
-## Usage
 
-To run the project, simply clone the repository and install the dependencies. Then, run the `main.py` file. The following options will be displayed:
-
-1) Extract data from URL
-2) Crawl multiple URLs using Python Scarpy
-3) Perform data pre-processing
-4) Extract features from data
-5) Apply machine learning algorithms and build neaural network
-6) Also applied deep learning algorithms
-7) Detect cyber threats and malicious conversations
+## find the various codes in diffwerent different python file
+## the dataset is synthetic and created by ourself.
